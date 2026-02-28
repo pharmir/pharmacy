@@ -1,0 +1,7 @@
+{
+  "name": "PHARMAPSY",
+  "description": "A comprehensive pharmacy medication management system for processing orders, managing suppliers, and generating print-ready procurement forms with AI-powered medication insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
